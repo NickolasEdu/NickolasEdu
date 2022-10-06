@@ -26,10 +26,5 @@
 ## My GitHub Status
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickolasEdu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickolasEdu&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div align="center">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=NickolasEdu&theme=great-gatsby)">
 </div>
